@@ -10,7 +10,7 @@ This project focuses on stitching multiple images together to create a panoramic
 2. **Homography Estimation:** Compute the homography matrix between pairs of images using RANSAC.
 3. **Image Warping:** Warp and stitch images together using the estimated homographies.
 
-![image](https://github.com/Shyam-pi/Panoramic-Image-Stitching-using-Homography/assets/57116285/0deb742e-e47d-48fc-9ac6-5c9ccaf2cfba) ![image](https://github.com/Shyam-pi/Panoramic-Image-Stitching-using-Homography/assets/57116285/152bd882-68c5-42c2-9170-4620ee314771)
+![image](https://github.com/Shyam-pi/Panoramic-Image-Stitching-using-Homography/assets/57116285/0deb742e-e47d-48fc-9ac6-5c9ccaf2cfba)![image](https://github.com/Shyam-pi/Panoramic-Image-Stitching-using-Homography/assets/57116285/152bd882-68c5-42c2-9170-4620ee314771)
 
 4. **Trimming:** Remove excess black pixels to obtain the final stitched image.
 
